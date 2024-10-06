@@ -1,1 +1,1 @@
-Projects that I've done with MATLAB
+Fun random projects with MATLAB
